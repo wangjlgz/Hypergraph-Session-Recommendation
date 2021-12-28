@@ -1,4 +1,4 @@
-Session-based Recommendation with Hypergraph Attention Networks (SDM2020)
+Session-based Recommendation with Hypergraph Attention Networks (SDM2021)
 ============
 
 ## SHARe
