@@ -4,7 +4,6 @@ Session-based Recommendation with Hypergraph Attention Networks (SDM2020)
 ## SHARe
 
 This is the source code of paper ["Session-based Recommendation with Hypergraph Attention Networks"](https://epubs.siam.org/doi/abs/10.1137/1.9781611976700.10).
-![The proposed framework](SHARE.png)
 
 ## Requirements
 
